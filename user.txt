@@ -5,3 +5,4 @@ tree
 it's
 a
 demo
+word count
